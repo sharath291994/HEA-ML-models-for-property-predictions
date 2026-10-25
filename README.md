@@ -2,7 +2,7 @@
 
 This repository provides a melting-point prediction workflow comparing **linear regression, decision tree regression, and random forest regression** for predicting a synthetic melting-temperature target from Al–Co–Cr–Fe–Ni alloy compositions.
 
-> **Scope:** This is a synthetic-data learning and software demonstration. The dataset contains no experimental, DFT, or CALPHAD melting temperatures. Reported accuracy measures agreement with a synthetic target, rather than validated predictive accuracy for real alloys.
+> **Scope:** This repository contains CALPHAD generated data on the melting points of Al–Co–Cr–Fe–Ni HEA with different compositions. 
 
 ## Contents
 
